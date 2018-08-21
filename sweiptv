@@ -1,4 +1,180 @@
 #EXTM3U
+#EXTINF:-1,NO:NRK 1 HD
+http://178.132.6.74:8282/live/ramo/ramo1/1586.ts
+#EXTINF:-1,NO:NRK 2 HD
+http://178.132.6.74:8282/live/ramo/ramo1/1585.ts
+#EXTINF:-1,NO:NRK 3 HD
+http://178.132.6.74:8282/live/ramo/ramo1/1584.ts
+#EXTINF:-1,NO:TV Norge
+http://178.132.6.74:8282/live/ramo/ramo1/1577.ts
+#EXTINF:-1,NO:TV 2 (N)
+http://178.132.6.74:8282/live/ramo/ramo1/1582.ts
+#EXTINF:-1,NO:TV 2 Nyhetskanalen
+http://178.132.6.74:8282/live/ramo/ramo1/1580.ts
+#EXTINF:-1,NO:TV 2 Livsstil
+http://178.132.6.74:8282/live/ramo/ramo1/1581.ts
+#EXTINF:-1,NO:TV 2 Zebra
+http://178.132.6.74:8282/live/ramo/ramo1/1578.ts
+#EXTINF:-1,NO:TV3 HD (N)
+http://178.132.6.74:8282/live/ramo/ramo1/1576.ts
+#EXTINF:-1,NO:VOX HD
+http://178.132.6.74:8282/live/ramo/ramo1/1572.ts
+#EXTINF:-1,NO:FEM
+http://178.132.6.74:8282/live/ramo/ramo1/1590.ts
+#EXTINF:-1,NO:MAX HD
+http://178.132.6.74:8282/live/ramo/ramo1/1588.ts
+#EXTINF:-1,NO:TLC
+http://178.132.6.74:8282/live/ramo/ramo1/1583.ts
+#EXTINF:-1,NO:TV6 (N)
+http://178.132.6.74:8282/live/ramo/ramo1/1575.ts
+#EXTINF:-1,NO:Viasat 4 No
+http://178.132.6.74:8282/live/ramo/ramo1/1574.ts
+#EXTINF:-1,NO:Visjon Norge
+http://178.132.6.74:8282/live/ramo/ramo1/1573.ts
+#EXTINF:-1,NO:KANAL 10 Norge
+http://178.132.6.74:8282/live/ramo/ramo1/1589.ts
+#EXTINF:-1,NO_Discovery Channel
+http://178.132.6.74:8282/live/ramo/ramo1/4198.ts
+#EXTINF:-1,NO_Discovert Science
+http://178.132.6.74:8282/live/ramo/ramo1/4199.ts
+#EXTINF:-1,NO_Discovery World
+http://178.132.6.74:8282/live/ramo/ramo1/4197.ts
+#EXTINF:-1,NO_Investigation Discovery Sweden
+http://178.132.6.74:8282/live/ramo/ramo1/4201.ts
+#EXTINF:-1,NO_National Geographic
+http://178.132.6.74:8282/live/ramo/ramo1/4200.ts
+#EXTINF:-1,NO: NAT GEO
+http://178.132.6.74:8282/live/ramo/ramo1/1587.ts
+#EXTINF:-1,NO_Nat Geo Wild HD
+http://178.132.6.74:8282/live/ramo/ramo1/2969.ts
+#EXTINF:-1,NO:ANIMAL PLANET
+http://178.132.6.74:8282/live/ramo/ramo1/3447.ts
+#EXTINF:-1,NO_TRAVEL CHANNEL
+http://178.132.6.74:8282/live/ramo/ramo1/4196.ts
+#EXTINF:-1,NO_Fatstone.TV
+http://178.132.6.74:8282/live/ramo/ramo1/2936.ts
+#EXTINF:-1,NO_Hope Channel Norge
+http://178.132.6.74:8282/live/ramo/ramo1/2935.ts
+#EXTINF:-1,NO_MTV Norge
+http://178.132.6.74:8282/live/ramo/ramo1/2934.ts
+#EXTINF:-1,NO_Stortinget
+http://178.132.6.74:8282/live/ramo/ramo1/2933.ts
+#EXTINF:-1,NO_TV Haugaland
+http://178.132.6.74:8282/live/ramo/ramo1/2932.ts
+#EXTINF:-1,NO_E! Entertainment TV Nordic
+http://178.132.6.74:8282/live/ramo/ramo1/2931.ts
+#EXTINF:-1,NO_Canal Motor
+http://178.132.6.74:8282/live/ramo/ramo1/2937.ts
+#EXTINF:-1,NO_Disney Channel
+http://178.132.6.74:8282/live/ramo/ramo1/2928.ts
+#EXTINF:-1,NO:DISNEY CHANNEL NO
+http://178.132.6.74:8282/live/ramo/ramo1/1593.ts
+#EXTINF:-1,NO_DISNEY XD
+http://178.132.6.74:8282/live/ramo/ramo1/2929.ts
+#EXTINF:-1,NO:TV 2 Sportskanalen
+http://178.132.6.74:8282/live/ramo/ramo1/1579.ts
+#EXTINF:-1,NO:EUROSPORT NOR
+http://178.132.6.74:8282/live/ramo/ramo1/1592.ts
+#EXTINF:-1,NO_VIASAT GOLF
+http://178.132.6.74:8282/live/ramo/ramo1/3434.ts
+#EXTINF:-1,NO:Eurosport 1 Nordic
+http://178.132.6.74:8282/live/ramo/ramo1/1591.ts
+#EXTINF:-1,NO_Eurosport Pluss 1 macth time
+http://178.132.6.74:8282/live/ramo/ramo1/2941.ts
+#EXTINF:-1,NO_Eurosport Pluss 2 macth time
+http://178.132.6.74:8282/live/ramo/ramo1/2940.ts
+#EXTINF:-1,NO_Eurosport Pluss 3 macth time
+http://178.132.6.74:8282/live/ramo/ramo1/2939.ts
+#EXTINF:-1,NO_Eurosport Pluss 4 macth time
+http://178.132.6.74:8282/live/ramo/ramo1/2938.ts
+#EXTINF:-1,DK:DR 1 HD
+http://178.132.6.74:8282/live/ramo/ramo1/1638.ts
+#EXTINF:-1,DK:DR 2
+http://178.132.6.74:8282/live/ramo/ramo1/1637.ts
+#EXTINF:-1,DK:DR 3
+http://178.132.6.74:8282/live/ramo/ramo1/1636.ts
+#EXTINF:-1,DK:DR K
+http://178.132.6.74:8282/live/ramo/ramo1/1635.ts
+#EXTINF:-1,DK:CANAL 9
+http://178.132.6.74:8282/live/ramo/ramo1/1643.ts
+#EXTINF:-1,DK:6`eren HD
+http://178.132.6.74:8282/live/ramo/ramo1/1644.ts
+#EXTINF:-1,DK:DK 4
+http://178.132.6.74:8282/live/ramo/ramo1/1640.ts
+#EXTINF:-1,DK_KANAL 4
+http://178.132.6.74:8282/live/ramo/ramo1/2967.ts
+#EXTINF:-1,DK:Kanal 5 (D)
+http://178.132.6.74:8282/live/ramo/ramo1/1630.ts
+#EXTINF:-1,DK:TLC Danmark
+http://178.132.6.74:8282/live/ramo/ramo1/1626.ts
+#EXTINF:-1,DK:TV 2
+http://178.132.6.74:8282/live/ramo/ramo1/1625.ts
+#EXTINF:-1,DK:TV 2 Fyn
+http://178.132.6.74:8282/live/ramo/ramo1/1622.ts
+#EXTINF:-1,DK:TV 2 LORRY
+http://178.132.6.74:8282/live/ramo/ramo1/1621.ts
+#EXTINF:-1,DK:TV 2 Midtvest
+http://178.132.6.74:8282/live/ramo/ramo1/1620.ts
+#EXTINF:-1,DK:TV 2 Nord
+http://178.132.6.74:8282/live/ramo/ramo1/1619.ts
+#EXTINF:-1,DK_TV2 Ã˜st
+http://178.132.6.74:8282/live/ramo/ramo1/2966.ts
+#EXTINF:-1,DK:TV 2 Syd
+http://178.132.6.74:8282/live/ramo/ramo1/1617.ts
+#EXTINF:-1,DK:TV 2 FRI
+http://178.132.6.74:8282/live/ramo/ramo1/1623.ts
+#EXTINF:-1,DK:TV 3 PULS
+http://178.132.6.74:8282/live/ramo/ramo1/1616.ts
+#EXTINF:-1,DK:TV2 Charlie
+http://178.132.6.74:8282/live/ramo/ramo1/1615.ts
+#EXTINF:-1,DK:TV2 NEWS
+http://178.132.6.74:8282/live/ramo/ramo1/1614.ts
+#EXTINF:-1,DK:TV2 Zulu
+http://178.132.6.74:8282/live/ramo/ramo1/1613.ts
+#EXTINF:-1,DK:TV3 +
+http://178.132.6.74:8282/live/ramo/ramo1/1612.ts
+#EXTINF:-1,DK:TV3 (D)
+http://178.132.6.74:8282/live/ramo/ramo1/1611.ts
+#EXTINF:-1,DK:NAT GEO
+http://178.132.6.74:8282/live/ramo/ramo1/1639.ts
+#EXTINF:-1,DK:Nickelodeon (D)
+http://178.132.6.74:8282/live/ramo/ramo1/1627.ts
+#EXTINF:-1,DK:DR Ramasjang
+http://178.132.6.74:8282/live/ramo/ramo1/1634.ts
+#EXTINF:-1,DK:DR ULTRA
+http://178.132.6.74:8282/live/ramo/ramo1/1633.ts
+#EXTINF:-1,DK_Cartoon Network
+http://178.132.6.74:8282/live/ramo/ramo1/2930.ts
+#EXTINF:-1,DK:DISNEY CHANNEL DK
+http://178.132.6.74:8282/live/ramo/ramo1/1641.ts
+#EXTINF:-1,DK:Comedy Central (D)
+http://178.132.6.74:8282/live/ramo/ramo1/1642.ts
+#EXTINF:-1,DK:National Geographic (D)
+http://178.132.6.74:8282/live/ramo/ramo1/1628.ts
+#EXTINF:-1,DK:Investigation Discovery (D)
+http://178.132.6.74:8282/live/ramo/ramo1/1631.ts
+#EXTINF:-1,DK:TV3 Sport 1
+http://178.132.6.74:8282/live/ramo/ramo1/1610.ts
+#EXTINF:-1,DK:TV3 MAX
+http://178.132.6.74:8282/live/ramo/ramo1/1609.ts
+#EXTINF:-1,(DK) TV3 SPORT
+http://178.132.6.74:8282/live/ramo/ramo1/5714.ts
+#EXTINF:-1,DK_EUROSPORT 1
+http://178.132.6.74:8282/live/ramo/ramo1/5203.ts
+#EXTINF:-1,DK:TV 2 SPORT HD
+http://178.132.6.74:8282/live/ramo/ramo1/1618.ts
+#EXTINF:-1,DK_VIASAT GOLF
+http://178.132.6.74:8282/live/ramo/ramo1/3433.ts
+#EXTINF:-1,DK_TV3 SPORT 2 G
+http://178.132.6.74:8282/live/ramo/ramo1/1608.ts
+#EXTINF:-1,DK:Eurosport 2
+http://178.132.6.74:8282/live/ramo/ramo1/1632.ts
+#EXTINF:-1,DK:Motors TV HD
+http://178.132.6.74:8282/live/ramo/ramo1/1629.ts
+#EXTINF:-1,DK:Viasat History Multi
+http://178.132.6.74:8282/live/ramo/ramo1/1604.ts
+#EXTINF:-1,DK:Viasat Nature / Playboy
+http://178.132.6.74:8282/live/ramo/ramo1/1603.ts
 #EXTINF:-1,SE:SVT1 HD
 http://178.132.6.74:8282/live/ramo/ramo1/1550.ts
 #EXTINF:-1,SE:SVT2 HD
@@ -117,6 +293,771 @@ http://178.132.6.74:8282/live/ramo/ramo1/1566.ts
 http://178.132.6.74:8282/live/ramo/ramo1/1565.ts
 #EXTINF:-1,SE:C MORE LIVE 5
 http://178.132.6.74:8282/live/ramo/ramo1/1564.ts
-
-
-
+#EXTINF:-1,FIN:Yle TV1 HD
+http://178.132.6.74:8282/live/ramo/ramo1/1595.ts
+#EXTINF:-1,FIN:Yle TV2 HD
+http://178.132.6.74:8282/live/ramo/ramo1/1594.ts
+#EXTINF:-1,FIN:LIV
+http://178.132.6.74:8282/live/ramo/ramo1/1601.ts
+#EXTINF:-1,FIN:JIM
+http://178.132.6.74:8282/live/ramo/ramo1/1602.ts
+#EXTINF:-1,FIN:FIN SUB
+http://178.132.6.74:8282/live/ramo/ramo1/1596.ts
+#EXTINF:-1,FIN:MTV3 HD
+http://178.132.6.74:8282/live/ramo/ramo1/1600.ts
+#EXTINF:-1,FIN_Cmore Juniori
+http://178.132.6.74:8282/live/ramo/ramo1/2957.ts
+#EXTINF:-1,FIN_TV7 Finland
+http://178.132.6.74:8282/live/ramo/ramo1/2965.ts
+#EXTINF:-1,FIN_TV7 Plus
+http://178.132.6.74:8282/live/ramo/ramo1/2964.ts
+#EXTINF:-1,FIN:Nelonen
+http://178.132.6.74:8282/live/ramo/ramo1/1599.ts
+#EXTINF:-1,FIN_HSTV
+http://178.132.6.74:8282/live/ramo/ramo1/2963.ts
+#EXTINF:-1,FIN_Ruutu  Lapset
+http://178.132.6.74:8282/live/ramo/ramo1/2962.ts
+#EXTINF:-1,FIN_Ruutu  Urheilu 1
+http://178.132.6.74:8282/live/ramo/ramo1/2961.ts
+#EXTINF:-1,FI_Ruutu  Urheilu 2
+http://178.132.6.74:8282/live/ramo/ramo1/2960.ts
+#EXTINF:-1,FIN:Ruutu  Dokkarit
+http://178.132.6.74:8282/live/ramo/ramo1/1598.ts
+#EXTINF:-1,FIN:Ruutu  Leffat ja Sarjat
+http://178.132.6.74:8282/live/ramo/ramo1/1597.ts
+#EXTINF:-1,FIN_C More Max HD
+http://178.132.6.74:8282/live/ramo/ramo1/2956.ts
+#EXTINF:-1,FI_C More Sport 1
+http://178.132.6.74:8282/live/ramo/ramo1/2959.ts
+#EXTINF:-1,FI_C More Sport 2
+http://178.132.6.74:8282/live/ramo/ramo1/2958.ts
+#EXTINF:-1,(FI) C More First HD
+http://178.132.6.74:8282/live/ramo/ramo1/4166.ts
+#EXTINF:-1,(FI) C More Hits HD
+http://178.132.6.74:8282/live/ramo/ramo1/4165.ts
+#EXTINF:-1,(FI) C More Juniori
+http://178.132.6.74:8282/live/ramo/ramo1/4164.ts
+#EXTINF:-1,(FI) C More Max FHD
+http://178.132.6.74:8282/live/ramo/ramo1/4163.ts
+#EXTINF:-1,(FI) C More Series HD
+http://178.132.6.74:8282/live/ramo/ramo1/4162.ts
+#EXTINF:-1,(FI) C More Sport 1
+http://178.132.6.74:8282/live/ramo/ramo1/4181.ts
+#EXTINF:-1,(FI) C More Sport 1 FHD
+http://178.132.6.74:8282/live/ramo/ramo1/4161.ts
+#EXTINF:-1,(FI) C More Sport 2
+http://178.132.6.74:8282/live/ramo/ramo1/4180.ts
+#EXTINF:-1,(FI) C More Sport HD
+http://178.132.6.74:8282/live/ramo/ramo1/4160.ts
+#EXTINF:-1,(FI) Cmore Juniori
+http://178.132.6.74:8282/live/ramo/ramo1/4172.ts
+#EXTINF:-1,(FI) Discovery Channel
+http://178.132.6.74:8282/live/ramo/ramo1/4176.ts
+#EXTINF:-1,(FI) Disney Channel
+http://178.132.6.74:8282/live/ramo/ramo1/4175.ts
+#EXTINF:-1,SE: Svt 1
+http://212.8.248.197:8080/live/sam02/sam02/1118.ts
+#EXTINF:-1,SE: Svt 2
+http://212.8.248.197:8080/live/sam02/sam02/1114.ts
+#EXTINF:-1,SE: TV 2 Zebra
+http://212.8.248.197:8080/live/sam02/sam02/1081.ts
+#EXTINF:-1,SE: TV 3 Sweden
+http://212.8.248.197:8080/live/sam02/sam02/1074.ts
+#EXTINF:-1,SE: TV3 Puls
+http://212.8.248.197:8080/live/sam02/sam02/1144.ts
+#EXTINF:-1,SE: TV2 Nord DK
+http://212.8.248.197:8080/live/sam02/sam02/1143.ts
+#EXTINF:-1,SE: TV 4 Sweden
+http://212.8.248.197:8080/live/sam02/sam02/1096.ts
+#EXTINF:-1,SE: TV 3 Sport
+http://212.8.248.197:8080/live/sam02/sam02/1237.ts
+#EXTINF:-1,SE: TV 4 Film
+http://212.8.248.197:8080/live/sam02/sam02/1112.ts
+#EXTINF:-1,SE: TV 4 Komedi
+http://212.8.248.197:8080/live/sam02/sam02/1089.ts
+#EXTINF:-1,SE: TV 4 Gold
+http://212.8.248.197:8080/live/sam02/sam02/1097.ts
+#EXTINF:-1,SE: TV 4 Fakta
+http://212.8.248.197:8080/live/sam02/sam02/1086.ts
+#EXTINF:-1,SE: TV 4 Fakta XL
+http://212.8.248.197:8080/live/sam02/sam02/1110.ts
+#EXTINF:-1,SE: Kanal 5
+http://212.8.248.197:8080/live/sam02/sam02/1100.ts
+#EXTINF:-1,SE: TV 6
+http://212.8.248.197:8080/live/sam02/sam02/1130.ts
+#EXTINF:-1,SE: Sjuan
+http://212.8.248.197:8080/live/sam02/sam02/1103.ts
+#EXTINF:-1,SE: TV 8
+http://212.8.248.197:8080/live/sam02/sam02/1098.ts
+#EXTINF:-1,SE: Kanal 9
+http://212.8.248.197:8080/live/sam02/sam02/1119.ts
+#EXTINF:-1,SE: TV 10
+http://212.8.248.197:8080/live/sam02/sam02/1087.ts
+#EXTINF:-1,SE: Kanal 11
+http://212.8.248.197:8080/live/sam02/sam02/1099.ts
+#EXTINF:-1,SE: TV 12
+http://212.8.248.197:8080/live/sam02/sam02/1095.ts
+#EXTINF:-1,SE: Disney
+http://212.8.248.197:8080/live/sam02/sam02/1088.ts
+#EXTINF:-1,SE: Disney XD
+http://212.8.248.197:8080/live/sam02/sam02/1109.ts
+#EXTINF:-1,SE: Boomerang
+http://212.8.248.197:8080/live/sam02/sam02/1085.ts
+#EXTINF:-1,SE: Nickelodeon
+http://212.8.248.197:8080/live/sam02/sam02/1161.ts
+#EXTINF:-1,SE: Discovery
+http://212.8.248.197:8080/live/sam02/sam02/1083.ts
+#EXTINF:-1,SE: Discovery Investigation
+http://212.8.248.197:8080/live/sam02/sam02/1105.ts
+#EXTINF:-1,SE: National Geographic
+http://212.8.248.197:8080/live/sam02/sam02/1079.ts
+#EXTINF:-1,SE: Animal Planet
+http://212.8.248.197:8080/live/sam02/sam02/1134.ts
+#EXTINF:-1,SE: TCM Se
+http://212.8.248.197:8080/live/sam02/sam02/1080.ts
+#EXTINF:-1,SE: MTV Se
+http://212.8.248.197:8080/live/sam02/sam02/1120.ts
+#EXTINF:-1,SE: Fox Se
+http://212.8.248.197:8080/live/sam02/sam02/1078.ts
+#EXTINF:-1,SE: TNT Se
+http://212.8.248.197:8080/live/sam02/sam02/1075.ts
+#EXTINF:-1,SE: Comedy Central
+http://212.8.248.197:8080/live/sam02/sam02/1082.ts
+#EXTINF:-1,SE: TLC Sverige
+http://212.8.248.197:8080/live/sam02/sam02/1084.ts
+#EXTINF:-1,SE: TV3 Sport 1
+http://212.8.248.197:8080/live/sam02/sam02/1077.ts
+#EXTINF:-1,SE: TV3 Sport 2
+http://212.8.248.197:8080/live/sam02/sam02/1076.ts
+#EXTINF:-1,SE: DK 1 HD
+http://212.8.248.197:8080/live/sam02/sam02/1150.ts
+#EXTINF:-1,SE: DK 2 HD
+http://212.8.248.197:8080/live/sam02/sam02/1151.ts
+#EXTINF:-1,SE: DK 3 HD
+http://212.8.248.197:8080/live/sam02/sam02/1152.ts
+#EXTINF:-1,SE: DK 4 HD
+http://212.8.248.197:8080/live/sam02/sam02/1153.ts
+#EXTINF:-1,SE: DK 5 HD
+http://212.8.248.197:8080/live/sam02/sam02/1154.ts
+#EXTINF:-1,SE: 6 Eren DK
+http://212.8.248.197:8080/live/sam02/sam02/1145.ts
+#EXTINF:-1,SE: Kanal 4 DK
+http://212.8.248.197:8080/live/sam02/sam02/1158.ts
+#EXTINF:-1,SE: Viasat 4 DK
+http://212.8.248.197:8080/live/sam02/sam02/1148.ts
+#EXTINF:-1,SE: Canel 9 DK
+http://212.8.248.197:8080/live/sam02/sam02/1146.ts
+#EXTINF:-1,SE: Disney XD DK
+http://212.8.248.197:8080/live/sam02/sam02/1147.ts
+#EXTINF:-1,SE: TV2 News DK
+http://212.8.248.197:8080/live/sam02/sam02/1156.ts
+#EXTINF:-1,SE: DR Ultra DK
+http://212.8.248.197:8080/live/sam02/sam02/1137.ts
+#EXTINF:-1,SE: TV3 DK
+http://212.8.248.197:8080/live/sam02/sam02/1157.ts
+#EXTINF:-1,SE: TV 2 Charlie DK
+http://212.8.248.197:8080/live/sam02/sam02/1142.ts
+#EXTINF:-1,SE: TV2 Sport DK
+http://212.8.248.197:8080/live/sam02/sam02/1149.ts
+#EXTINF:-1,SE: TV2 Zulu DK
+http://212.8.248.197:8080/live/sam02/sam02/1174.ts
+#EXTINF:-1,SE: TV2 Fri DK
+http://212.8.248.197:8080/live/sam02/sam02/1172.ts
+#EXTINF:-1,SE: TNT DK
+http://212.8.248.197:8080/live/sam02/sam02/1167.ts
+#EXTINF:-1,SE: Dantoto HD DK
+http://212.8.248.197:8080/live/sam02/sam02/1170.ts
+#EXTINF:-1,SE: TCM DK
+http://212.8.248.197:8080/live/sam02/sam02/1169.ts
+#EXTINF:-1,SE: VH1 DK
+http://212.8.248.197:8080/live/sam02/sam02/1168.ts
+#EXTINF:-1,SE: TV2 Bornholm DK
+http://212.8.248.197:8080/live/sam02/sam02/1173.ts
+#EXTINF:-1,SE: Ramasjang DK
+http://212.8.248.197:8080/live/sam02/sam02/1155.ts
+#EXTINF:-1,SE: Animal Planet DK
+http://212.8.248.197:8080/live/sam02/sam02/1175.ts
+#EXTINF:-1,SE: Cartoon Network NO
+http://212.8.248.197:8080/live/sam02/sam02/1239.ts
+#EXTINF:-1,SE: Disny Channel NO
+http://212.8.248.197:8080/live/sam02/sam02/1241.ts
+#EXTINF:-1,SE: Disny XD NO
+http://212.8.248.197:8080/live/sam02/sam02/1240.ts
+#EXTINF:-1,SE: Nick JR NO
+http://212.8.248.197:8080/live/sam02/sam02/1242.ts
+#EXTINF:-1,SE: Nickelodeon NO
+http://212.8.248.197:8080/live/sam02/sam02/1243.ts
+#EXTINF:-1,SE: Yletv 2 HD FL
+http://212.8.248.197:8080/live/sam02/sam02/1181.ts
+#EXTINF:-1,SE: yletv2 HD
+http://212.8.248.197:8080/live/sam02/sam02/1115.ts
+#EXTINF:-1,SE: Nelonen FL
+http://212.8.248.197:8080/live/sam02/sam02/1166.ts
+#EXTINF:-1,SE: Danske Klassikker 5 DK
+http://212.8.248.197:8080/live/sam02/sam02/1180.ts
+#EXTINF:-1,SE: TV3 MAX DK
+http://212.8.248.197:8080/live/sam02/sam02/1198.ts
+#EXTINF:-1,SE: 3 DK
+http://212.8.248.197:8080/live/sam02/sam02/1188.ts
+#EXTINF:-1,SE: BBC Earth DK
+http://212.8.248.197:8080/live/sam02/sam02/1224.ts
+#EXTINF:-1,SE: TV2 Fyn DK
+http://212.8.248.197:8080/live/sam02/sam02/1187.ts
+#EXTINF:-1,SE: TV Midtvest DK
+http://212.8.248.197:8080/live/sam02/sam02/1229.ts
+#EXTINF:-1,SE: 3+ TV DK
+http://212.8.248.197:8080/live/sam02/sam02/1190.ts
+#EXTINF:-1,SE: Nelonen DK
+http://212.8.248.197:8080/live/sam02/sam02/1231.ts
+#EXTINF:-1,SE: Ruutuurhellu1 FL
+http://212.8.248.197:8080/live/sam02/sam02/1232.ts
+#EXTINF:-1,SE: Ruutuurheilu1
+http://212.8.248.197:8080/live/sam02/sam02/1183.ts
+#EXTINF:-1,SE: Lifaa DK
+http://212.8.248.197:8080/live/sam02/sam02/1233.ts
+#EXTINF:-1,SE: YLE TV 1
+http://212.8.248.197:8080/live/sam02/sam02/1226.ts
+#EXTINF:-1,SE: TV2 Norge DK
+http://212.8.248.197:8080/live/sam02/sam02/1185.ts
+#EXTINF:-1,SE: TLC Danmark DK
+http://212.8.248.197:8080/live/sam02/sam02/1227.ts
+#EXTINF:-1,SE: Kanal 5 DK
+http://212.8.248.197:8080/live/sam02/sam02/1197.ts
+#EXTINF:-1,SE: Ruutu Dokkarit FL
+http://212.8.248.197:8080/live/sam02/sam02/1228.ts
+#EXTINF:-1,SE: Vox Norway
+http://212.8.248.197:8080/live/sam02/sam02/1184.ts
+#EXTINF:-1,SE: Nelonen Maailma DK
+http://212.8.248.197:8080/live/sam02/sam02/1230.ts
+#EXTINF:-1,SE: MTV3 HD Tampere NR
+http://212.8.248.197:8080/live/sam02/sam02/1196.ts
+#EXTINF:-1,SE: National Geographic hd DK
+http://212.8.248.197:8080/live/sam02/sam02/1186.ts
+#EXTINF:-1,SE: NRK 1 NO
+http://212.8.248.197:8080/live/sam02/sam02/1193.ts
+#EXTINF:-1,SE: NRK 2 NO
+http://212.8.248.197:8080/live/sam02/sam02/1194.ts
+#EXTINF:-1,SE: NRK 3  NO
+http://212.8.248.197:8080/live/sam02/sam02/1238.ts
+#EXTINF:-1,SE: Travel Channel
+http://212.8.248.197:8080/live/sam02/sam02/1195.ts
+#EXTINF:-1,SE: Jim TV
+http://212.8.248.197:8080/live/sam02/sam02/1182.ts
+#EXTINF:-1,SE: Fox NR
+http://212.8.248.197:8080/live/sam02/sam02/1192.ts
+#EXTINF:-1,SE: DR k DK
+http://212.8.248.197:8080/live/sam02/sam02/1235.ts
+#EXTINF:-1,SE: Discovery Science
+http://212.8.248.197:8080/live/sam02/sam02/1225.ts
+#EXTINF:-1,SE: Discovery World DK
+http://212.8.248.197:8080/live/sam02/sam02/1191.ts
+#EXTINF:-1,SE: National Geographic DK
+http://212.8.248.197:8080/live/sam02/sam02/1171.ts
+#EXTINF:-1,SE: TV Ost DK
+http://212.8.248.197:8080/live/sam02/sam02/1176.ts
+#EXTINF:-1,SE: Danske Klassikker 2 DK
+http://212.8.248.197:8080/live/sam02/sam02/1177.ts
+#EXTINF:-1,SE: Danske Klassikker 3 DK
+http://212.8.248.197:8080/live/sam02/sam02/1178.ts
+#EXTINF:-1,SE: Danske Klassikker 4 DK
+http://212.8.248.197:8080/live/sam02/sam02/1179.ts
+#EXTINF:-1,WORLD| TV2 Zulu DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/790.ts
+#EXTINF:-1,WORLD| TV2 Sport DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/789.ts
+#EXTINF:-1,WORLD| TV2 Nord DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/780.ts
+#EXTINF:-1,WORLD| TV2 Lorry DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/787.ts
+#EXTINF:-1,WORLD| TV2 Fyn DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/786.ts
+#EXTINF:-1,WORLD|  TV2 Fri DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/785.ts
+#EXTINF:-1,WORLD| TV2 DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/784.ts
+#EXTINF:-1,WORLD| TV2 Charlie DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/783.ts
+#EXTINF:-1,WORLD| TV2 Bornholm DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/782.ts
+#EXTINF:-1,WORLD| TV Ã˜ST DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/788.ts
+#EXTINF:-1,WORLD| TV 3 Sport HD DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/794.ts
+#EXTINF:-1,WORLD|  TV 3 MAX FHD DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/795.ts
+#EXTINF:-1,WORLD| TV 2 Syd DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/781.ts
+#EXTINF:-1,WORLD| TV 2 HD DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/779.ts
+#EXTINF:-1,WORLD|  Travel Channel DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/797.ts
+#EXTINF:-1,WORLD| TNT HD DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/796.ts
+#EXTINF:-1,WORLD| TLC Danmark DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/778.ts
+#EXTINF:-1,WORLD| Nickelodeon DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/793.ts
+#EXTINF:-1,WORLD| DR3 HD DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/777.ts
+#EXTINF:-1,WORLD| DR2 DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/776.ts
+#EXTINF:-1,WORLD| DR1 HD DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/775.ts
+#EXTINF:-1,WORLD| DR1 DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/774.ts
+#EXTINF:-1,WORLD| DR Ultra DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/773.ts
+#EXTINF:-1,WORLD| DR Ramasjang DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/772.ts
+#EXTINF:-1,WORLD| DR K DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/771.ts
+#EXTINF:-1,WORLD| DK4 Danmark DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/770.ts
+#EXTINF:-1,WORLD| Disney XD DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/769.ts
+#EXTINF:-1,WORLD| Disney Junior DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/792.ts
+#EXTINF:-1,WORLD| Cartoon Network DK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/791.ts
+#EXTINF:-1,WORLD| TV2 FYN DENMARK
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/766.ts
+#EXTINF:-1,WORLD| DNK : TV OST
+http://gold.uyduportal.net:8000/live/Uyduportaliptv/uyduportalnet/767.ts
+#EXTINF:-1,NL: NPO 1
+http://212.8.248.197:8080/live/sam02/sam02/715.ts
+#EXTINF:-1,NL: NPO 2
+http://212.8.248.197:8080/live/sam02/sam02/716.ts
+#EXTINF:-1,NL: NPO 3
+http://212.8.248.197:8080/live/sam02/sam02/717.ts
+#EXTINF:-1,NL: RTL 4 HD
+http://212.8.248.197:8080/live/sam02/sam02/699.ts
+#EXTINF:-1,NL: RTL 5 HD
+http://212.8.248.197:8080/live/sam02/sam02/695.ts
+#EXTINF:-1,NL: NET 5 HD
+http://212.8.248.197:8080/live/sam02/sam02/698.ts
+#EXTINF:-1,NL: SBS 6 HD
+http://212.8.248.197:8080/live/sam02/sam02/701.ts
+#EXTINF:-1,NL: RTL 7 HD
+http://212.8.248.197:8080/live/sam02/sam02/696.ts
+#EXTINF:-1,NL: RTL 8 HD
+http://212.8.248.197:8080/live/sam02/sam02/697.ts
+#EXTINF:-1,NL: SBS 9
+http://212.8.248.197:8080/live/sam02/sam02/724.ts
+#EXTINF:-1,NL: Veronica / Disney XD HD
+http://212.8.248.197:8080/live/sam02/sam02/726.ts
+#EXTINF:-1,NL: NPO Zappelin Xtra/Humor TV
+http://212.8.248.197:8080/live/sam02/sam02/739.ts
+#EXTINF:-1,NL: Discovery ID
+http://212.8.248.197:8080/live/sam02/sam02/733.ts
+#EXTINF:-1,NL: Discovery Channle
+http://212.8.248.197:8080/live/sam02/sam02/704.ts
+#EXTINF:-1,NL: Discovery Showcase HD
+http://212.8.248.197:8080/live/sam02/sam02/732.ts
+#EXTINF:-1,NL: National Geographic
+http://212.8.248.197:8080/live/sam02/sam02/725.ts
+#EXTINF:-1,NL: Nat Geo Wild HD
+http://212.8.248.197:8080/live/sam02/sam02/416.ts
+#EXTINF:-1,NL: Animal Planet
+http://212.8.248.197:8080/live/sam02/sam02/410.ts
+#EXTINF:-1,NL: Disney Channel
+http://212.8.248.197:8080/live/sam02/sam02/706.ts
+#EXTINF:-1,NL: Nickelodeon
+http://212.8.248.197:8080/live/sam02/sam02/727.ts
+#EXTINF:-1,NL: Nicktoons
+http://212.8.248.197:8080/live/sam02/sam02/720.ts
+#EXTINF:-1,NL: Nick JR
+http://212.8.248.197:8080/live/sam02/sam02/718.ts
+#EXTINF:-1,NL: Disney Junior
+http://212.8.248.197:8080/live/sam02/sam02/719.ts
+#EXTINF:-1,NL: Boomerang
+http://212.8.248.197:8080/live/sam02/sam02/412.ts
+#EXTINF:-1,NL: Baby TV
+http://212.8.248.197:8080/live/sam02/sam02/411.ts
+#EXTINF:-1,NL: Spike
+http://212.8.248.197:8080/live/sam02/sam02/415.ts
+#EXTINF:-1,NL: Comedy Central
+http://212.8.248.197:8080/live/sam02/sam02/703.ts
+#EXTINF:-1,NL: MTV Nederland
+http://212.8.248.197:8080/live/sam02/sam02/737.ts
+#EXTINF:-1,NL: RTL Lounge
+http://212.8.248.197:8080/live/sam02/sam02/740.ts
+#EXTINF:-1,NL: RTL CRIME
+http://212.8.248.197:8080/live/sam02/sam02/705.ts
+#EXTINF:-1,NL: Fox
+http://212.8.248.197:8080/live/sam02/sam02/700.ts
+#EXTINF:-1,NL: TLC
+http://212.8.248.197:8080/live/sam02/sam02/728.ts
+#EXTINF:-1,NL: Xite Awrds
+http://212.8.248.197:8080/live/sam02/sam02/729.ts
+#EXTINF:-1,NL: 24 Kitchen
+http://212.8.248.197:8080/live/sam02/sam02/409.ts
+#EXTINF:-1,NL: Shorts TV
+http://212.8.248.197:8080/live/sam02/sam02/744.ts
+#EXTINF:-1,NL: RTV Noord
+http://212.8.248.197:8080/live/sam02/sam02/741.ts
+#EXTINF:-1,NL: Omroep Fryslan
+http://212.8.248.197:8080/live/sam02/sam02/738.ts
+#EXTINF:-1,NL: Omroep Zeeland
+http://212.8.248.197:8080/live/sam02/sam02/742.ts
+#EXTINF:-1,(NL) NPO 1 HD
+http://178.132.6.74:8282/live/ramo/ramo1/3267.ts
+#EXTINF:-1,(NL) NPO 101
+http://178.132.6.74:8282/live/ramo/ramo1/3241.ts
+#EXTINF:-1,(NL) NPO 2 HD
+http://178.132.6.74:8282/live/ramo/ramo1/3266.ts
+#EXTINF:-1,(NL) NPO 3 HD
+http://178.132.6.74:8282/live/ramo/ramo1/3265.ts
+#EXTINF:-1,(NL) NPO Cultura
+http://178.132.6.74:8282/live/ramo/ramo1/3199.ts
+#EXTINF:-1,(NL) NPO Politiek/Best
+http://178.132.6.74:8282/live/ramo/ramo1/3164.ts
+#EXTINF:-1,(NL) NPO Zapp Xtra/NPO Best
+http://178.132.6.74:8282/live/ramo/ramo1/3147.ts
+#EXTINF:-1,(NL) NPO ZAPPELIN XTRA/HUMOR TV
+http://178.132.6.74:8282/live/ramo/ramo1/3234.ts
+#EXTINF:-1,(NL) Omroep Brabant Televisie
+http://178.132.6.74:8282/live/ramo/ramo1/3163.ts
+#EXTINF:-1,(NL) Omroep Flevoland
+http://178.132.6.74:8282/live/ramo/ramo1/3162.ts
+#EXTINF:-1,(NL) Omroep P&M
+http://178.132.6.74:8282/live/ramo/ramo1/3161.ts
+#EXTINF:-1,(NL) Omroep Venlo
+http://178.132.6.74:8282/live/ramo/ramo1/3160.ts
+#EXTINF:-1,(NL) Omroep Venray
+http://178.132.6.74:8282/live/ramo/ramo1/3159.ts
+#EXTINF:-1,(NL) Omroep Zeeland
+http://178.132.6.74:8282/live/ramo/ramo1/3158.ts
+#EXTINF:-1,(NL) Omrop Fryslan
+http://178.132.6.74:8282/live/ramo/ramo1/3157.ts
+#EXTINF:-1,(NL) ONS
+http://178.132.6.74:8282/live/ramo/ramo1/3141.ts
+#EXTINF:-1,(NL) Pebble TV
+http://178.132.6.74:8282/live/ramo/ramo1/3212.ts
+#EXTINF:-1,(NL) RegioTV Tiel
+http://178.132.6.74:8282/live/ramo/ramo1/3156.ts
+#EXTINF:-1,(NL) RTL 4 HD
+http://178.132.6.74:8282/live/ramo/ramo1/3263.ts
+#EXTINF:-1,(NL) RTL 5 HD
+http://178.132.6.74:8282/live/ramo/ramo1/3262.ts
+#EXTINF:-1,(NL) RTL 7 HD
+http://178.132.6.74:8282/live/ramo/ramo1/3261.ts
+#EXTINF:-1,(NL) RTL 8 HD
+http://178.132.6.74:8282/live/ramo/ramo1/3260.ts
+#EXTINF:-1,(NL) RTL Crime
+http://178.132.6.74:8282/live/ramo/ramo1/3240.ts
+#EXTINF:-1,(NL) RTL LOUNGE
+http://178.132.6.74:8282/live/ramo/ramo1/3232.ts
+#EXTINF:-1,(NL) RTL TELEKIDS
+http://178.132.6.74:8282/live/ramo/ramo1/3210.ts
+#EXTINF:-1,(NL) RTL Z HD
+http://178.132.6.74:8282/live/ramo/ramo1/3239.ts
+#EXTINF:-1,(NL) RTV 7
+http://178.132.6.74:8282/live/ramo/ramo1/3238.ts
+#EXTINF:-1,(NL) RTV Betuwe
+http://178.132.6.74:8282/live/ramo/ramo1/3237.ts
+#EXTINF:-1,(NL) RTV DRENTHE
+http://178.132.6.74:8282/live/ramo/ramo1/3235.ts
+#EXTINF:-1,(NL) RTV Totaal
+http://178.132.6.74:8282/live/ramo/ramo1/3236.ts
+#EXTINF:-1,(NL) SBS 6
+http://178.132.6.74:8282/live/ramo/ramo1/3259.ts
+#EXTINF:-1,(NL) SBS 9
+http://178.132.6.74:8282/live/ramo/ramo1/3258.ts
+#EXTINF:-1,(NL) SLAM!
+http://178.132.6.74:8282/live/ramo/ramo1/3146.ts
+#EXTINF:-1,(NL) SPORT 1 RACING
+http://178.132.6.74:8282/live/ramo/ramo1/3180.ts
+#EXTINF:-1,(NL) Stingray LiteTV
+http://178.132.6.74:8282/live/ramo/ramo1/3155.ts
+#EXTINF:-1,(NL) The Q You
+http://178.132.6.74:8282/live/ramo/ramo1/3140.ts
+#EXTINF:-1,(NL) TLC
+http://178.132.6.74:8282/live/ramo/ramo1/3257.ts
+#EXTINF:-1,(NL) TV 538
+http://178.132.6.74:8282/live/ramo/ramo1/3245.ts
+#EXTINF:-1,(NL) TV DRENTHE
+http://178.132.6.74:8282/live/ramo/ramo1/3242.ts
+#EXTINF:-1,(NL) TV Gelderland
+http://178.132.6.74:8282/live/ramo/ramo1/3154.ts
+#EXTINF:-1,(NL) TV Noord
+http://178.132.6.74:8282/live/ramo/ramo1/3153.ts
+#EXTINF:-1,(NL) TV OOST
+http://178.132.6.74:8282/live/ramo/ramo1/3246.ts
+#EXTINF:-1,(NL) TV Oranje
+http://178.132.6.74:8282/live/ramo/ramo1/3152.ts
+#EXTINF:-1,(NL) TV Rijnmond
+http://178.132.6.74:8282/live/ramo/ramo1/3151.ts
+#EXTINF:-1,(NL) TV West
+http://178.132.6.74:8282/live/ramo/ramo1/3150.ts
+#EXTINF:-1,(NL) TVL LIMBURG
+http://178.132.6.74:8282/live/ramo/ramo1/3250.ts
+#EXTINF:-1,(NL) VERONICA HD
+http://178.132.6.74:8282/live/ramo/ramo1/3211.ts
+#EXTINF:-1,(NL) VERONICA/DISNEY XD
+http://178.132.6.74:8282/live/ramo/ramo1/3253.ts
+#EXTINF:-1,(NL) WOTV
+http://178.132.6.74:8282/live/ramo/ramo1/3148.ts
+#EXTINF:-1,(NL) XITE
+http://178.132.6.74:8282/live/ramo/ramo1/3145.ts
+#EXTINF:-1,(NL) ZIGGO SPORT EXTRA 1
+http://178.132.6.74:8282/live/ramo/ramo1/3186.ts
+#EXTINF:-1,(NL) ZIGGO SPORT EXTRA 2
+http://178.132.6.74:8282/live/ramo/ramo1/3185.ts
+#EXTINF:-1,(NL) ZIGGO SPORT GOLF
+http://178.132.6.74:8282/live/ramo/ramo1/3181.ts
+#EXTINF:-1,(NL) ZIGGO SPORT RACING
+http://178.132.6.74:8282/live/ramo/ramo1/3184.ts
+#EXTINF:-1,(NL) ZIGGO SPORT SELECT HD
+http://178.132.6.74:8282/live/ramo/ramo1/3187.ts
+#EXTINF:-1,(NL) ZIGGO SPORT VOETBAL
+http://178.132.6.74:8282/live/ramo/ramo1/3188.ts
+#EXTINF:-1,(NL)  KLIPKAR TV
+http://178.132.6.74:8282/live/ramo/ramo1/3252.ts
+#EXTINF:-1,(NL)  RTV OOST
+http://178.132.6.74:8282/live/ramo/ramo1/3149.ts
+#EXTINF:-1,(NL)  VTMKAZOOM/ KANAL Z
+http://178.132.6.74:8282/live/ramo/ramo1/3254.ts
+#EXTINF:-1,(NL) 100% NL TV
+http://178.132.6.74:8282/live/ramo/ramo1/3176.ts
+#EXTINF:-1,(NL) 192 TV
+http://178.132.6.74:8282/live/ramo/ramo1/3175.ts
+#EXTINF:-1,(NL) 24 KITCHEN
+http://178.132.6.74:8282/live/ramo/ramo1/3195.ts
+#EXTINF:-1,(NL) 24Kitchen
+http://178.132.6.74:8282/live/ramo/ramo1/3144.ts
+#EXTINF:-1,(NL) AMC
+http://178.132.6.74:8282/live/ramo/ramo1/3174.ts
+#EXTINF:-1,(NL) ANIMAL PLANET
+http://178.132.6.74:8282/live/ramo/ramo1/3197.ts
+#EXTINF:-1,(NL) AT 5
+http://178.132.6.74:8282/live/ramo/ramo1/3247.ts
+#EXTINF:-1,(NL) ATV ANTWERPEN
+http://178.132.6.74:8282/live/ramo/ramo1/3251.ts
+#EXTINF:-1,(NL) BABY TV
+http://178.132.6.74:8282/live/ramo/ramo1/3213.ts
+#EXTINF:-1,(NL) Berg en Dal TV
+http://178.132.6.74:8282/live/ramo/ramo1/3173.ts
+#EXTINF:-1,(NL) BOOMERANG
+http://178.132.6.74:8282/live/ramo/ramo1/3220.ts
+#EXTINF:-1,(NL) CARTOON NETWORK
+http://178.132.6.74:8282/live/ramo/ramo1/3218.ts
+#EXTINF:-1,(NL) CAZ
+http://178.132.6.74:8282/live/ramo/ramo1/3172.ts
+#EXTINF:-1,(NL) CBS REALITY
+http://178.132.6.74:8282/live/ramo/ramo1/3203.ts
+#EXTINF:-1,(NL) COMEDY CENTRAL EXTRA
+http://178.132.6.74:8282/live/ramo/ramo1/3244.ts
+#EXTINF:-1,(NL) COMEDY CENTRAL FAMILY
+http://178.132.6.74:8282/live/ramo/ramo1/3243.ts
+#EXTINF:-1,(NL) COMEDY CENTRAL NEDERLAND
+http://178.132.6.74:8282/live/ramo/ramo1/3224.ts
+#EXTINF:-1,(NL) CRIME  INVESTIGATION NETWORK
+http://178.132.6.74:8282/live/ramo/ramo1/3204.ts
+#EXTINF:-1,(NL) DISCOVERY CHANNEL NEDERLAND
+http://178.132.6.74:8282/live/ramo/ramo1/3207.ts
+#EXTINF:-1,(NL) Discovery Science
+http://178.132.6.74:8282/live/ramo/ramo1/3206.ts
+#EXTINF:-1,(NL) Discovery Showcase HD
+http://178.132.6.74:8282/live/ramo/ramo1/3196.ts
+#EXTINF:-1,(NL) Discovery World
+http://178.132.6.74:8282/live/ramo/ramo1/3205.ts
+#EXTINF:-1,(NL) DISNEY CHANNEL NEDERLAND
+http://178.132.6.74:8282/live/ramo/ramo1/3223.ts
+#EXTINF:-1,(NL) DISNEY JUNIOR
+http://178.132.6.74:8282/live/ramo/ramo1/3222.ts
+#EXTINF:-1,(NL) DISNEY XD
+http://178.132.6.74:8282/live/ramo/ramo1/3217.ts
+#EXTINF:-1,(NL) DJAZZ.tv
+http://178.132.6.74:8282/live/ramo/ramo1/3171.ts
+#EXTINF:-1,(NL) Edge
+http://178.132.6.74:8282/live/ramo/ramo1/3143.ts
+#EXTINF:-1,(NL) Eurosport 1 HD
+http://178.132.6.74:8282/live/ramo/ramo1/3183.ts
+#EXTINF:-1,(NL) Eurosport 2 HD
+http://178.132.6.74:8282/live/ramo/ramo1/3182.ts
+#EXTINF:-1,(NL) Extreme Sports
+http://178.132.6.74:8282/live/ramo/ramo1/3170.ts
+#EXTINF:-1,(NL) Family7
+http://178.132.6.74:8282/live/ramo/ramo1/3169.ts
+#EXTINF:-1,(NL) FILM 1 ACTION
+http://178.132.6.74:8282/live/ramo/ramo1/3230.ts
+#EXTINF:-1,(NL) FILM 1 COMEDY  KIDS
+http://178.132.6.74:8282/live/ramo/ramo1/3227.ts
+#EXTINF:-1,(NL) FILM 1 DRAMA
+http://178.132.6.74:8282/live/ramo/ramo1/3229.ts
+#EXTINF:-1,(NL) FILM 1 PREMIER HD
+http://178.132.6.74:8282/live/ramo/ramo1/3231.ts
+#EXTINF:-1,(NL) FILM 1 SPOTLIGHT
+http://178.132.6.74:8282/live/ramo/ramo1/3226.ts
+#EXTINF:-1,(NL) FILM 1 SUNDANCE
+http://178.132.6.74:8282/live/ramo/ramo1/3228.ts
+#EXTINF:-1,(NL) Film Family
+http://178.132.6.74:8282/live/ramo/ramo1/3225.ts
+#EXTINF:-1,(NL) Fine Living
+http://178.132.6.74:8282/live/ramo/ramo1/3200.ts
+#EXTINF:-1,(NL) Food Network
+http://178.132.6.74:8282/live/ramo/ramo1/3201.ts
+#EXTINF:-1,(NL) FOX CHANNEL
+http://178.132.6.74:8282/live/ramo/ramo1/3248.ts
+#EXTINF:-1,(NL) FOX SPORTS 1 EREDIVISIE HD
+http://178.132.6.74:8282/live/ramo/ramo1/3194.ts
+#EXTINF:-1,(NL) FOX SPORTS 2 INTERNATIONAL
+http://178.132.6.74:8282/live/ramo/ramo1/3193.ts
+#EXTINF:-1,(NL) FOX SPORTS 3 EREDIVISIE
+http://178.132.6.74:8282/live/ramo/ramo1/3192.ts
+#EXTINF:-1,(NL) FOX SPORTS 4 INTERNATIONAL
+http://178.132.6.74:8282/live/ramo/ramo1/3191.ts
+#EXTINF:-1,(NL) FOX SPORTS 5 EREDIVISIE HD
+http://178.132.6.74:8282/live/ramo/ramo1/3190.ts
+#EXTINF:-1,(NL) FOX SPORTS 6 INTERNATIONAL
+http://178.132.6.74:8282/live/ramo/ramo1/3189.ts
+#EXTINF:-1,(NL) HISTORY HD
+http://178.132.6.74:8282/live/ramo/ramo1/3202.ts
+#EXTINF:-1,(NL) Horse & Country TV
+http://178.132.6.74:8282/live/ramo/ramo1/3168.ts
+#EXTINF:-1,(NL) IConcerts
+http://178.132.6.74:8282/live/ramo/ramo1/3167.ts
+#EXTINF:-1,(NL) INVESTIGATION DISCOVERY
+http://178.132.6.74:8282/live/ramo/ramo1/3198.ts
+#EXTINF:-1,(NL) JimJam
+http://178.132.6.74:8282/live/ramo/ramo1/3256.ts
+#EXTINF:-1,(NL) Kadet
+http://178.132.6.74:8282/live/ramo/ramo1/3255.ts
+#EXTINF:-1,(NL) KetOp12
+http://178.132.6.74:8282/live/ramo/ramo1/3249.ts
+#EXTINF:-1,(NL) L1 LIMBURG
+http://178.132.6.74:8282/live/ramo/ramo1/3233.ts
+#EXTINF:-1,(NL) Mezzo
+http://178.132.6.74:8282/live/ramo/ramo1/3166.ts
+#EXTINF:-1,(NL) MOTORS TV
+http://178.132.6.74:8282/live/ramo/ramo1/3179.ts
+#EXTINF:-1,(NL) MTV
+http://178.132.6.74:8282/live/ramo/ramo1/3178.ts
+#EXTINF:-1,(NL) MTV MUSIC 24
+http://178.132.6.74:8282/live/ramo/ramo1/3177.ts
+#EXTINF:-1,(NL) N1 TV
+http://178.132.6.74:8282/live/ramo/ramo1/3165.ts
+#EXTINF:-1,(NL) NAT GEO WILD
+http://178.132.6.74:8282/live/ramo/ramo1/3208.ts
+#EXTINF:-1,(NL) NATIONAL GEO HD
+http://178.132.6.74:8282/live/ramo/ramo1/3209.ts
+#EXTINF:-1,(NL) NET 5 HD
+http://178.132.6.74:8282/live/ramo/ramo1/3264.ts
+#EXTINF:-1,(NL) NGC HD
+http://178.132.6.74:8282/live/ramo/ramo1/3142.ts
+#EXTINF:-1,(NL) Nick Hits
+http://178.132.6.74:8282/live/ramo/ramo1/3216.ts
+#EXTINF:-1,(NL) Nick JR
+http://178.132.6.74:8282/live/ramo/ramo1/3215.ts
+#EXTINF:-1,(NL) NICK TOONS
+http://178.132.6.74:8282/live/ramo/ramo1/3221.ts
+#EXTINF:-1,(NL) NICKELODEON
+http://178.132.6.74:8282/live/ramo/ramo1/3219.ts
+#EXTINF:-1,(NL) Nickelodeon / Spike
+http://178.132.6.74:8282/live/ramo/ramo1/3214.ts
+#EXTINF:-1,NL | 192 TV
+http://212.8.252.98:8080/live/muammer/unal/11304.ts
+#EXTINF:-1,NL | 192TV
+http://212.8.252.98:8080/live/muammer/unal/11303.ts
+#EXTINF:-1,NL | 24 KITCHEN
+http://212.8.252.98:8080/live/muammer/unal/11332.ts
+#EXTINF:-1,NL | Animal Planet NL
+http://212.8.252.98:8080/live/muammer/unal/11302.ts
+#EXTINF:-1,NL | AT5
+http://212.8.252.98:8080/live/muammer/unal/11301.ts
+#EXTINF:-1,NL | BABY TV
+http://212.8.252.98:8080/live/muammer/unal/11300.ts
+#EXTINF:-1,NL | Boomerang
+http://212.8.252.98:8080/live/muammer/unal/11299.ts
+#EXTINF:-1,NL | CARTOON NETWORK HD
+http://212.8.252.98:8080/live/muammer/unal/11298.ts
+#EXTINF:-1,NL | COMEDY CENTRAL
+http://212.8.252.98:8080/live/muammer/unal/11331.ts
+#EXTINF:-1,NL | DISCOVERY CHANNEL  HD
+http://212.8.252.98:8080/live/muammer/unal/11335.ts
+#EXTINF:-1,NL | DISNEY JUNIOR HD
+http://212.8.252.98:8080/live/muammer/unal/11297.ts
+#EXTINF:-1,NL | Djazz TV
+http://212.8.252.98:8080/live/muammer/unal/11296.ts
+#EXTINF:-1,NL | HBO 2 HD
+http://212.8.252.98:8080/live/muammer/unal/11330.ts
+#EXTINF:-1,NL | HBO 3
+http://212.8.252.98:8080/live/muammer/unal/11290.ts
+#EXTINF:-1,NL | HBO HD
+http://212.8.252.98:8080/live/muammer/unal/11316.ts
+#EXTINF:-1,NL | HISTORY CHANEL HD
+http://212.8.252.98:8080/live/muammer/unal/11289.ts
+#EXTINF:-1,NL | INVESTIGATION DISCOVERY HD
+http://212.8.252.98:8080/live/muammer/unal/11288.ts
+#EXTINF:-1,NL | JIM JAM
+http://212.8.252.98:8080/live/muammer/unal/11287.ts
+#EXTINF:-1,NL | KETNET
+http://212.8.252.98:8080/live/muammer/unal/11286.ts
+#EXTINF:-1,NL | L1 LIMBURG HD
+http://212.8.252.98:8080/live/muammer/unal/11285.ts
+#EXTINF:-1,NL | MTV NL
+http://212.8.252.98:8080/live/muammer/unal/11284.ts
+#EXTINF:-1,NL | N1 NIJMEGEN TV
+http://212.8.252.98:8080/live/muammer/unal/11283.ts
+#EXTINF:-1,NL | NATIONAL GEO HD
+http://212.8.252.98:8080/live/muammer/unal/11329.ts
+#EXTINF:-1,NL | NATIONAL GEOPRAPHIC HD
+http://212.8.252.98:8080/live/muammer/unal/11282.ts
+#EXTINF:-1,NL | NET 5 HD
+http://212.8.252.98:8080/live/muammer/unal/11315.ts
+#EXTINF:-1,NL | NICK JR HD
+http://212.8.252.98:8080/live/muammer/unal/11281.ts
+#EXTINF:-1,NL | Nick Music
+http://212.8.252.98:8080/live/muammer/unal/11280.ts
+#EXTINF:-1,NL | NICKELODEON HD
+http://212.8.252.98:8080/live/muammer/unal/11326.ts
+#EXTINF:-1,NL | NICKTOONS HD
+http://212.8.252.98:8080/live/muammer/unal/11279.ts
+#EXTINF:-1,NL | NPO 1 HD
+http://212.8.252.98:8080/live/muammer/unal/11314.ts
+#EXTINF:-1,NL | NPO 2 HD
+http://212.8.252.98:8080/live/muammer/unal/11313.ts
+#EXTINF:-1,NL | NPO 3 HD
+http://212.8.252.98:8080/live/muammer/unal/11312.ts
+#EXTINF:-1,NL | NPO Politiek
+http://212.8.252.98:8080/live/muammer/unal/11278.ts
+#EXTINF:-1,NL | NPO Zapp Xtra/NPO Best
+http://212.8.252.98:8080/live/muammer/unal/11277.ts
+#EXTINF:-1,NL | OMROEP BRABANT
+http://212.8.252.98:8080/live/muammer/unal/11276.ts
+#EXTINF:-1,NL | OMROEP GELDERLAND
+http://212.8.252.98:8080/live/muammer/unal/11275.ts
+#EXTINF:-1,NL | RTL 4 HD
+http://212.8.252.98:8080/live/muammer/unal/11311.ts
+#EXTINF:-1,NL | RTL 5 HD
+http://212.8.252.98:8080/live/muammer/unal/11310.ts
+#EXTINF:-1,NL | RTL 7 HD
+http://212.8.252.98:8080/live/muammer/unal/11309.ts
+#EXTINF:-1,NL | RTL 8 HD
+http://212.8.252.98:8080/live/muammer/unal/11308.ts
+#EXTINF:-1,NL | RTL Crime HD
+http://212.8.252.98:8080/live/muammer/unal/11274.ts
+#EXTINF:-1,NL | RTL LOUNGE-NL
+http://212.8.252.98:8080/live/muammer/unal/11273.ts
+#EXTINF:-1,NL | RTL Z
+http://212.8.252.98:8080/live/muammer/unal/11305.ts
+#EXTINF:-1,NL | RTV Drenthe
+http://212.8.252.98:8080/live/muammer/unal/11272.ts
+#EXTINF:-1,NL | SBS 6 HD
+http://212.8.252.98:8080/live/muammer/unal/11307.ts
+#EXTINF:-1,NL | SBS 9
+http://212.8.252.98:8080/live/muammer/unal/11306.ts
+#EXTINF:-1,NL | Slam TV
+http://212.8.252.98:8080/live/muammer/unal/11271.ts
+#EXTINF:-1,NL | SPIKE
+http://212.8.252.98:8080/live/muammer/unal/11270.ts
+#EXTINF:-1,NL | TLC HD
+http://212.8.252.98:8080/live/muammer/unal/11269.ts
+#EXTINF:-1,NL | TV OOST HD
+http://212.8.252.98:8080/live/muammer/unal/11268.ts
+#EXTINF:-1,NL | TV Oranje
+http://212.8.252.98:8080/live/muammer/unal/11267.ts
+#EXTINF:-1,NL | TV West
+http://212.8.252.98:8080/live/muammer/unal/11266.ts
+#EXTINF:-1,NL | VERONICA DISNEY XD
+http://212.8.252.98:8080/live/muammer/unal/11336.ts
